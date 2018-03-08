@@ -1,0 +1,10 @@
+{
+  "latitudeE7": 13667710,
+  "accuracy": 899,
+  "longitudeE7": 1040001611,
+  "activity": [
+    {"activity": [{"confidence": 92, "type": "STILL"}, {"confidence": 8, "type": "IN_VEHICLE"}],
+     "timestampMs": "1480864632603"}
+  ],
+  "timestampMs": "1480864629022"
+}
